@@ -1,0 +1,4 @@
+# GradePointAverageCalculator
+A program that takes the exam scores of Mathematics, Physics, Chemistry, Turkish, History, and Music courses 
+with Java from the user, calculates their average, and displays "Passed" if the average is greater than 60, 
+and "Failed" if it is small.
